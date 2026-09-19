@@ -1,0 +1,16 @@
+# Ejecutables
+*.exe
+
+# Archivos objeto
+*.o
+
+# Archivos temporales
+*.tmp
+*.bak
+
+# Archivos generados por compilación
+build/
+bin/
+
+# Archivos basura de Windows
+nul
